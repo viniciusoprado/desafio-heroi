@@ -11,7 +11,7 @@ if (XPDoHeroi < 1000) {
   nivel = "Bronze";
 } else if (XPDoHeroi >= 2001 && XPDoHeroi <= 5000) {
   nivel = "Prata";
-} else if (XPDoHeroi >= 6001 && XPDoHeroi <= 7000) {
+} else if (XPDoHeroi >= 5001 && XPDoHeroi <= 7000) {
   nivel = "Ouro";
 } else if (XPDoHeroi >= 7001 && XPDoHeroi <= 8000) {
   nivel = "Platina";
